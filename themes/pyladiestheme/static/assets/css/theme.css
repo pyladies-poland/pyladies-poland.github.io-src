@@ -327,7 +327,7 @@ hr {
     background-color:rgb(34,49,63);
     /* IE 8 OPACITY */
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=58)";
-    background-color: rgba(34,49,63,.58);
+    background-color: rgba(34,49,63,.20);
 }
 
 .bg-intro h1 {
