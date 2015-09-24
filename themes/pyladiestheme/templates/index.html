@@ -61,10 +61,13 @@
 
         <div class="row">
           <div class="col-sm-6 margin-bottom-xs">
-                  <aside id="featured" class="body">
-                      <article>
-                      </article>
-                  </aside><!-- /#featured -->
+              {% set article = articles_dict.get('about') %}
+              <aside id="featured" class="body">
+                  <article>
+                      <h1 class="entry-title">{{ article.title }}</h1>
+                      {{ article.content }}
+                  </article>
+              </aside><!-- /#featured -->
           </div>
           <div class="col-sm-3">
               <a class="wrapper-events" href="#">
@@ -99,16 +102,188 @@
           </div>
         </div>
 
+        <div class="row row-events">
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="/people/aniaw">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/people/Ania.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Ania Wszeborowska <br/>Założycielka</h3>
+              </a>
           </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="/people/kaja">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/people/Kaja.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Kaja Milanowska <br/>Założycielka, Koordynatorka Poznań</h3>
+              </a>
           </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="/people/aniao">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/people/AniaO-bg.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Ania Olchowik <br/>Koordynatorka Warszawa</h3>
+              </a>
           </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="/people/aneta">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/people/Aneta-bg.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Aneta Włodarczyk <br/>Koordynatorka Warszawa</h3>
+              </a>
           </div>
         </div>
+
+        <div class="row row-events">
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="/people/rafal">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/people/Rafal.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Rafał Stożek <br/>Mentor</h3>
+              </a>
           </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="/people/jagoda">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/people/Jagoda2.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Łukasz Jagodziński <br/>Mentor</h3>
+              </a>
+          </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="/people/andrzej">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/people/Kendriu2.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Andrzej Skupień <br/>Mentor</h3>
+              </a>
+          </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="/people/przemek">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/people/Przemo.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Przemek Pietrzak <br/>Mentor</h3>
+              </a>
           </div>
         </div>
       </div>
     </div>
+
+  <!-- JOIN US -->
+  <!--===============================================================-->
+    <div class="bg-about" id="join">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-sm-12 margin-bottom-xs">
+              {% set article = articles_dict.get('join') %}
+              <aside id="featured" class="body">
+                  <article>
+                      <h1 class="entry-title">{{ article.title }}</h1>
+                      {{ article.content }}
+                  </article>
+              </aside><!-- /#featured -->
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  <!-- RESOURCES -->
+  <!--===============================================================-->
+    <div class="bg-services" id="resources">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-sm-12">
+            {% set article = articles_dict.get('resources') %}
+            <h2 class="title">{{ article.title }}</h2>
+            <hr>
+            <aside id="featured" class="body">
+                <article>
+                    {{ article.content }}
+                </article>
+            </aside><!-- /#featured -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <!-- CODE OF CONDUCT -->
+  <!--===============================================================-->
+    <div class="bg-about" id="coc">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-sm-12 margin-bottom-xs">
+              {% set article = articles_dict.get('coc') %}
+              <aside id="featured" class="body">
+                  <article>
+                      <h1 class="entry-title">{{ article.title }}</h1>
+                      {{ article.content }}
+                  </article>
+              </aside><!-- /#featured -->
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  <!-- PARTNERS-->
+  <!--===============================================================-->
+    <div class="bg-events" id="partners">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-sm-12">
+            <h2 class="title">PARTNERZY</h2>
+            <hr>
+          </div>
+        </div>
+
+        <div class="row row-events">
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="http://www.skn.put.poznan.pl/" target="_blank">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/partners/rknpp-bg.png"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Rada Kół Naukowych Politechniki Poznańskiej</h3>
+              </a>
+          </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="http://www.megiteam.pl/" target="_blank">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/partners/megiteam-square.png"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">MegiTeam</h3>
+              </a>
+          </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="http://kodujdlapolski.pl/" target="_blank">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/partners/koduj_dla_polski-square.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Koduj dla Polski</h3>
+              </a>
+          </div>
+          <div class="col-sm-3">
+              <a class="wrapper-events" href="https://www.facebook.com/KOMITYWA.org" target="_blank">
+                <img class="img-responsive"
+                     src="/pyladiestheme/assets/images/partners/komitywa.jpg"
+                     alt="Ania Wszeborowska">
+                <h3 class="category">Fundacja Komitywa</h3>
+              </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
 
   <!-- CONTACT-->
   <!--===============================================================-->
@@ -116,9 +291,9 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 text-center">
-            <h3>Feel free to contact me for your next project</h3>
+            <h3>Masz pytania? Napisz do nas!</h3>
               <!-- YOUR E-MAIL-->
-            <a href="mailto:example@example.com" class="mail"><span class="glyphicon glyphicon-envelope"></span>E-MAIL</a>
+            <a href="mailto:pyladies@pyladies.pl" class="mail"><span class="glyphicon glyphicon-envelope"></span>E-MAIL</a>
           </div>
         </div>
       </div>
