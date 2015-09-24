@@ -424,6 +424,8 @@ hr {
     display: block;
     background-color: #34495E;
     max-width: 320px;
+    height: 340px;
+    overflow: hidden;
     /*box-shadow*/
     -webkit-box-shadow: 0px 6px 0 0 rgba(0,0,0,0.08);
     -moz-box-shadow: 0px 6px 0 0 rgba(0,0,0,0.08);
@@ -432,10 +434,22 @@ hr {
 
 #about .wrapper-events {
     max-width: 240px;
+    height: 255px;
+}
+
+#people .wrapper-events {
+    height: 279px;
+    max-width: 240px;
+}
+
+#partners .wrapper-events {
+    height: 240px;
+    max-width: 240px;
 }
 
 .wrapper-events .img-responsive {
     border-radius:10px;
+    position: absolute;
     /*transition*/
     -webkit-transition: opacity .1s linear;
     -moz-transition: opacity .1s linear;
