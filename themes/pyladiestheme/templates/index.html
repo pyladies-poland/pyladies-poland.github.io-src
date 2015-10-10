@@ -103,74 +103,18 @@
         </div>
 
         <div class="row row-events">
-          <div class="col-sm-3">
-              <a class="wrapper-events" href="/people/aniaw">
-                <img class="img-responsive"
-                     src="/pyladiestheme/assets/images/people/Ania.jpg"
-                     alt="Ania Wszeborowska">
-                <h3 class="category">Ania Wszeborowska <br/>Założycielka</h3>
-              </a>
-          </div>
-          <div class="col-sm-3">
-              <a class="wrapper-events" href="/people/kaja">
-                <img class="img-responsive"
-                     src="/pyladiestheme/assets/images/people/Kaja.jpg"
-                     alt="Ania Wszeborowska">
-                <h3 class="category">Kaja Milanowska <br/>Założycielka, Koordynatorka Poznań</h3>
-              </a>
-          </div>
-          <div class="col-sm-3">
-              <a class="wrapper-events" href="/people/aniao">
-                <img class="img-responsive"
-                     src="/pyladiestheme/assets/images/people/AniaO-bg.jpg"
-                     alt="Ania Wszeborowska">
-                <h3 class="category">Ania Olchowik <br/>Koordynatorka Warszawa</h3>
-              </a>
-          </div>
-          <div class="col-sm-3">
-              <a class="wrapper-events" href="/people/aneta">
-                <img class="img-responsive"
-                     src="/pyladiestheme/assets/images/people/Aneta-bg.jpg"
-                     alt="Ania Wszeborowska">
-                <h3 class="category">Aneta Włodarczyk <br/>Koordynatorka Warszawa</h3>
-              </a>
-          </div>
+        {% for article in categories_dict.get('people') %}
+            <div class="col-sm-3">
+                <a class="wrapper-events" href="/people/{{ article.slug }}">
+                    <img class="img-responsive"
+                         src="/pyladiestheme/assets/images/people/{{ article.img_name }}"
+                         alt="{{ article.person_name }}">
+                    <h3 class="category">{{ article.person_name }} <br/>{{ article.person_role }}</h3>
+                </a>
+            </div>
+        {% endfor %}
         </div>
 
-        <div class="row row-events">
-          <div class="col-sm-3">
-              <a class="wrapper-events" href="/people/rafal">
-                <img class="img-responsive"
-                     src="/pyladiestheme/assets/images/people/Rafal.jpg"
-                     alt="Ania Wszeborowska">
-                <h3 class="category">Rafał Stożek <br/>Mentor</h3>
-              </a>
-          </div>
-          <div class="col-sm-3">
-              <a class="wrapper-events" href="/people/jagoda">
-                <img class="img-responsive"
-                     src="/pyladiestheme/assets/images/people/Jagoda2.jpg"
-                     alt="Ania Wszeborowska">
-                <h3 class="category">Łukasz Jagodziński <br/>Mentor</h3>
-              </a>
-          </div>
-          <div class="col-sm-3">
-              <a class="wrapper-events" href="/people/andrzej">
-                <img class="img-responsive"
-                     src="/pyladiestheme/assets/images/people/Kendriu2.jpg"
-                     alt="Ania Wszeborowska">
-                <h3 class="category">Andrzej Skupień <br/>Mentor</h3>
-              </a>
-          </div>
-          <div class="col-sm-3">
-              <a class="wrapper-events" href="/people/przemek">
-                <img class="img-responsive"
-                     src="/pyladiestheme/assets/images/people/Przemo.jpg"
-                     alt="Ania Wszeborowska">
-                <h3 class="category">Przemek Pietrzak <br/>Mentor</h3>
-              </a>
-          </div>
-        </div>
       </div>
     </div>
 
