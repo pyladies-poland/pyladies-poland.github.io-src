@@ -38,3 +38,6 @@ THEME = 'themes/pyladiestheme'
 THEME_STATIC_DIR = 'pyladiestheme'
 
 DISPLAY_PAGES_ON_MENU = True
+
+PLUGINS = ['plugins.articles_dict',]
+LOAD_CONTENT_CACHE = False
