@@ -22,8 +22,7 @@ Description: Style-Layout
    ================================================== */
 body {
     padding-top: 0;
-    font-family: 'Montserrat', sans-serif;
-}
+    font-family: 'PT Sans Caption', sans-serif; }
 
 .green {
     color:#1BBC9B;
