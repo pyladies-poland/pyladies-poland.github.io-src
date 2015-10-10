@@ -44,5 +44,8 @@ THEME_STATIC_DIR = 'pyladiestheme'
 
 DISPLAY_PAGES_ON_MENU = True
 
-PLUGINS = ['plugins.articles_dict',]
+PLUGINS = ['plugins.articles_dict',
+           'plugins.categories_dict',]
+
+# Set this to False in development mode
 LOAD_CONTENT_CACHE = False
