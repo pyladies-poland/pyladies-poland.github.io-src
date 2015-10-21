@@ -31,24 +31,21 @@
         </div>
 
         <div class="row row-events">
-          <div class="col-sm-4 margin-bottom-xs">
-              <a class="lightbox wrapper-events" href="/pyladiestheme/assets/images/640x480.gif">
-                <img class="img-responsive" src="/pyladiestheme/assets/images/pyconpl2015logo.png" alt="events-1">
-                <h3 class="category"><p>PyConPL 2015</p><p>Warsztat TDD</p></h3>
-              </a>
-          </div>
-          <div class="col-sm-4 margin-bottom-xs">
-              <a class="lightbox wrapper-events" href="/pyladiestheme/assets/images/640x480.gif">
-                <img class="img-responsive" src="/pyladiestheme/assets/images/320x340.gif" alt="events-2">
-                <h3 class="category">TBA</h3>
-              </a>
-          </div>
-          <div class="col-sm-4">
-              <a class="lightbox wrapper-events" href="/pyladiestheme/assets/images/640x480.gif">
-                <img class="img-responsive" src="/pyladiestheme/assets/images/320x340.gif" alt="events-3">
-                <h3 class="category">TBA</h3>
-              </a>
-          </div>
+        {% for article in categories_dict.get('events') %}
+            <div class="col-sm-4 margin-bottom-xs">
+                <a class="lightbox wrapper-events" href="/events/{{ article.slug }}">
+                    <img class="img-responsive"
+                         src="/pyladiestheme/assets/images/events/{{ article.img_name }}"
+                         alt="{{ article.title }}">
+                    <h3 class="category">{{ article.summary }}</h3>
+                </a>
+            </div>
+        {% endfor %}
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+              <a href="/events/"><h4 id="all-events" class="title">WSZYSTKIE WYDARZENIA</h4></a>
+            </div>
         </div>
 
       </div>

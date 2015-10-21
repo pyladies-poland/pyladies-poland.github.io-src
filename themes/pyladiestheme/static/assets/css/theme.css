@@ -414,7 +414,17 @@ hr {
 /* EVENTS
    ================================================== */
 .row-events {
+    margin-bottom: 100px;
+}
+
+#all-events {
+    margin-top: 0;
     margin-bottom: 138px;
+    font-size: 1.7em;
+}
+
+#all-events:hover {
+    color:#e51e41;
 }
 
 .wrapper-events {
