@@ -4,9 +4,10 @@
 :date: 2015-07-22 04:33
 :modified: 2015-09-23 00:57
 :slug: jagoda
-:category: people
 :authors: PyLadies Poland
 :summary: About Łukasz Jagodziński
+
+:category: people
 :person_name: Łukasz Jagodziński
 :person_role: Mentor
 :img_name: Jagoda2.jpg
