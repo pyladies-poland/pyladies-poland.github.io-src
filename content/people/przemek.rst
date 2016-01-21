@@ -8,6 +8,7 @@ Przemek Pietrzak
 :summary: About Przemek Pietrzak
 
 :category: people
+:template: person
 :person_name: Przemek Pietrzak
 :person_role: Mentor
 :img_name: Przemo.jpg

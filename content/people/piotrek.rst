@@ -8,6 +8,7 @@ Piotr Dyba
 :summary: About Piotr Dyba
 
 :category: people
+:template: person
 :person_name: Piotr Dyba
 :person_role: Mentor, Fotograf
 :img_name: Piotrek.jpg

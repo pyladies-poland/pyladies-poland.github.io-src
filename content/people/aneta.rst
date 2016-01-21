@@ -8,6 +8,7 @@ Aneta Włodarczyk
 :summary: About Aneta Włodarczyk
 
 :category: people
+:template: person
 :person_name: Aneta Włodarczyk
 :person_role: Koordynatorka Warszawa
 :img_name: Aneta-bg.jpg

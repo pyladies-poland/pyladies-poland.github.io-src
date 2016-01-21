@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block contents %}
+
+    <div class="bg-services" id="person">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 class="title">{{ article.title }}</h2>
+                    <h4 class="title role">{{ article.person_role }}</h4>
+                </div>
+                <div class="col-sm-12">
+                    <div class="col-sm-3">
+                        <img src="/pyladiestheme/assets/images/people/{{ article.img_name }}"
+                             alt="{{ article.person_name }}"
+                             class="img-responsive">
+                    </div>
+                    <div class="col-sm-9">
+                        {{ article.content }}
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                  <a href="/#people"><h4 class="back">&larr; WSZYSTKIE OSOBY</h4></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock contents %}

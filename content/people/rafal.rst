@@ -8,6 +8,7 @@ Rafał Stożek
 :summary: About Rafał Stożek
 
 :category: people
+:template: person
 :person_name: Rafał Stożek
 :person_role: Mentor
 :img_name: Rafal.jpg

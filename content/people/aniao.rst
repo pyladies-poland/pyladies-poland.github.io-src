@@ -8,6 +8,7 @@ Ania Olchowik
 :summary: About Ania Olchowik
 
 :category: people
+:template: person
 :person_name: Ania Olchowik
 :person_role: Koordynatorka Warszawa
 :img_name: AniaO-bg.jpg

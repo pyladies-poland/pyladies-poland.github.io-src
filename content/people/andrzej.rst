@@ -8,6 +8,7 @@ Andrzej Skupień
 :summary: About Andrzej Skupień
 
 :category: people
+:template: person
 :person_name: Andrzej Skupień
 :person_role: Mentor
 :img_name: Kendriu2.jpg

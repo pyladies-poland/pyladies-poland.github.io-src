@@ -8,6 +8,7 @@ Ania Wszeborowska
 :summary: About Ania Wszeborowska
 
 :category: people
+:template: person
 :person_name: Ania Wszeborowska
 :person_role: Założycielka
 :img_name: Ania.jpg

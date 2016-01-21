@@ -8,6 +8,7 @@
 :summary: About Łukasz Jagodziński
 
 :category: people
+:template: person
 :person_name: Łukasz Jagodziński
 :person_role: Mentor
 :img_name: Jagoda2.jpg

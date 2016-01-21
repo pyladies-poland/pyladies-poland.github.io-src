@@ -8,6 +8,7 @@ Kaja Milanowska
 :summary: About Kaja Milanowska
 
 :category: people
+:template: person
 :person_name: Kaja Milanowska
 :person_role: Założycielka, Koordynatorka Poznań
 :img_name: Kaja.jpg
