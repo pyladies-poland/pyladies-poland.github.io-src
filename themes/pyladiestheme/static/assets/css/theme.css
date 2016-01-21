@@ -11,7 +11,7 @@ Description: Style-Layout
 #INTRO
 #EVENTS
 #ABOUT
-#SERVICES
+#WHITE-SECTION
 #PEOPLE
 #CONTACT
 #FOOTER
@@ -413,7 +413,7 @@ hr {
 
 /* EVENTS
    ================================================== */
-.row-events {
+.row-images {
     margin-bottom: 100px;
 }
 
@@ -427,7 +427,7 @@ hr {
     color:#e51e41;
 }
 
-.wrapper-events {
+.wrapper-images {
     border:1px solid #e7e7e7;
     /* border-radius:10px; */
     margin: 0 auto;
@@ -445,22 +445,22 @@ hr {
     */
 }
 
-#about .wrapper-events {
+#about .wrapper-images {
     max-width: 240px;
     height: 255px;
 }
 
-#people .wrapper-events {
+#people .wrapper-images {
     height: 279px;
     max-width: 240px;
 }
 
-#partners .wrapper-events {
+#partners .wrapper-images {
     height: 240px;
     max-width: 240px;
 }
 
-.wrapper-events .img-responsive {
+.wrapper-images .img-responsive {
     /*border-radius:10px;*/
     position: absolute;
     -webkit-transition: opacity .1s linear;
@@ -469,13 +469,13 @@ hr {
     transition: opacity .1s linear;
 }
 
-.wrapper-events:hover .img-responsive {
+.wrapper-images:hover .img-responsive {
     /* IE 8 OPACITY*/
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
     opacity: 0.06;
 }
 
-.wrapper-events:hover .category {
+.wrapper-images:hover .category {
     visibility: visible;
     top: 50%;
 }
@@ -522,13 +522,13 @@ hr {
     color: #777;
 }
 
-.bg-services h2,
+.bg-white h2,
 .bg-about h1 {
   font-size: 30px;
   text-transform: uppercase;
 }
 
-.bg-services p,
+.bg-white p,
 .bg-about p {
     padding-right: 40px;
     color: #777;
@@ -556,43 +556,43 @@ hr {
     }
 }
 
-/* SERVICES
+/* WHITE-SECTION
    ================================================== */
-.bg-services {
+.bg-white {
     padding-top: 0;
     padding-bottom: 130px;
 }
 
-.bg-services h3 {
+.bg-white h3 {
     margin-top: 0;
 }
 
-.bg-services .row .fa {
+.bg-white .row .fa {
     width: 40px;
     text-align: center;
     padding-top: 10px;
     color: #E51E41;
 }
 
-.bg-services .row .fa-mobile {
+.bg-white .row .fa-mobile {
     font-size: 80px;
     padding-top: 0;
 }
 
 @media (max-width:767px) {
 
-    .bg-services h3, .bg-services p {
+    .bg-white h3, .bg-white p {
         padding-left: 12px;
     }
 
-    .bg-services .row .fa {
+    .bg-white .row .fa {
         width: 40px;
         text-align: center;
         padding-top: 0px;
         font-size: 44px;
     }
 
-    .bg-services .row .fa-mobile {
+    .bg-white .row .fa-mobile {
         font-size: 80px;
         padding-top: 0px;
     }
@@ -605,7 +605,7 @@ hr {
     margin-bottom: 100px;
 }
 
-#people .row-events {
+#people .row-images {
     margin-bottom: 0px;
 }
 
