@@ -556,6 +556,25 @@ hr {
     }
 }
 
+.event {
+    overflow: hidden;
+    padding-bottom: 15px;
+}
+
+.event:hover {
+    background-color: #34495E;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    opacity: 0.9
+}
+
+.bg-white .event:hover p {
+    color: #fff;
+}
+
+#events .date {
+    text-transform: uppercase;
+}
+
 /* WHITE-SECTION
    ================================================== */
 .bg-white {
@@ -612,10 +631,6 @@ hr {
 #person .role {
   text-transform: uppercase;
   margin-top: 0px;
-}
-
-#person .col-sm-12 {
-    padding-top: 50px;
 }
 
 /* CONTACT
@@ -984,4 +999,13 @@ hr {
     font-size:15px;
 }
 
+}
+
+/* DETAILS
+   ================================================== */
+
+#event .col-sm-12,
+#person .col-sm-12,
+.top {
+    padding-top: 50px;
 }

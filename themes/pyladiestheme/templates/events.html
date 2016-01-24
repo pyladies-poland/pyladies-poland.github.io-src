@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block contents %}
+
+    <div class="bg-white" id="events">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-12 top">
+                    <h2 class="title">Wszystkie wydarzenia</h2>
+                    <hr>
+                </div>
+                <div class="col-sm-12">
+                    {% for article in categories_dict.get('events') %}
+                        <div class="event">
+                            <a href="/events/{{ article.slug }}">
+                                <div class="col-sm-3">
+                                    <p class="date">{{ article.locale_date|title }}</p>
+                                </div>
+                                <div class="col-sm-9">
+                                    {{ article.summary }}
+                                </div>
+                            </a>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+{% endblock contents %}

@@ -13,10 +13,16 @@ ARTICLE_PATHS = ['events', 'main', 'people']
 ARTICLE_URL = '{category}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 
+DIRECT_TEMPLATES = ['archives', 'categories', 'events', 'index']
+
 TIMEZONE = 'Europe/Warsaw'
 
 DEFAULT_LANG = 'pl'
 LOCALE = ('pl_PL',)
+
+DATE_FORMATS = {
+    'pl': ('pl_PL', '%d %B %Y'),
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -31,6 +37,7 @@ SOCIAL = (('facebook', 'https://www.facebook.com/pyladiespl'),
           ('github', 'https://github.com/pyladies-poland'),)
 
 DEFAULT_PAGINATION = 6
+PAGINATED_DIRECT_TEMPLATES = ['archives', 'categories', 'events']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

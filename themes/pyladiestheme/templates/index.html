@@ -33,7 +33,7 @@
         <div class="row row-images">
         {% for article in categories_dict.get('events') %}
             <div class="col-sm-4 margin-bottom-xs">
-                <a class="lightbox wrapper-images" href="/events/{{ article.slug }}">
+                <a class="wrapper-images" href="/events/{{ article.slug }}">
                     <img class="img-responsive"
                          src="/pyladiestheme/assets/images/events/{{ article.img_name }}"
                          alt="{{ article.title }}">
@@ -44,7 +44,7 @@
         </div>
         <div class="row">
             <div class="col-sm-12">
-              <a href="/events/"><h4 id="all-events" class="title">WSZYSTKIE WYDARZENIA</h4></a>
+              <a href="/events.html"><h4 id="all-events" class="title">WSZYSTKIE WYDARZENIA</h4></a>
             </div>
         </div>
 
