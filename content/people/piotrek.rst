@@ -11,6 +11,6 @@ Piotr Dyba
 :template: person
 :person_name: Piotr Dyba
 :person_role: Mentor, Fotograf
-:img_name: Piotrek.jpg
+:img_name: Piotrek.png
 
 Piotrek Dyba jest mentorem na zajęciach w Poznaniu. Czasem przychodzi na zajęcia z aparatem, dzięki czemu dysponujemy kilkoma ładnymi zdjęciami mentorów oraz mentorowanych!

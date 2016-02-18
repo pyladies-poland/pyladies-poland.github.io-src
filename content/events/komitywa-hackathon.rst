@@ -8,6 +8,6 @@ Hackathon Wysadź Ulicę - Malta
 :summary: Komitywa - Hackathon Wysadź Ulicę
 
 :category: events
-:img_name: komitywa-hackathon2.png
+:img_name: komitywa.png
 
 Hackathon Wysadź Ulicę

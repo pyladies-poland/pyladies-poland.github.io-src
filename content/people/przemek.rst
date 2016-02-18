@@ -11,6 +11,6 @@ Przemek Pietrzak
 :template: person
 :person_name: Przemek Pietrzak
 :person_role: Mentor
-:img_name: Przemo.jpg
+:img_name: Przemek.png
 
 Przemek Pietrzak jest mentorem na zajęciach w Poznaniu

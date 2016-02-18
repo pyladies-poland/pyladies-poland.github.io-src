@@ -8,6 +8,6 @@ PyTrening z PyLadies 2.0 w Poznaniu
 :summary: PyTrening 2.0 Poznań
 
 :category: events
-:img_name: pytrening.png
+:img_name: pytrening2.png
 
 Co środę spotykamy się w Poznaniu, aby uczyć się programowania w Pythonie pod okiem mentorów.

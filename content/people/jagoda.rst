@@ -11,6 +11,6 @@
 :template: person
 :person_name: Łukasz Jagodziński
 :person_role: Mentor
-:img_name: Jagoda2.jpg
+:img_name: Jagoda2.png
 
 Łukasz Jagodziński jest mentorem na zajęciach w Poznaniu

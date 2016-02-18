@@ -11,6 +11,6 @@ Rafał Stożek
 :template: person
 :person_name: Rafał Stożek
 :person_role: Mentor
-:img_name: Rafal.jpg
+:img_name: Rafal.png
 
 Rafał Stożek jest mentorem na zajęciach w Poznaniu

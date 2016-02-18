@@ -11,6 +11,6 @@ Andrzej Skupień
 :template: person
 :person_name: Andrzej Skupień
 :person_role: Mentor
-:img_name: Kendriu2.jpg
+:img_name: Kendriu2.png
 
 Andrzej Skupień jest mentorem na zajęciach w Poznaniu

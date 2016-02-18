@@ -11,6 +11,6 @@ Kaja Milanowska
 :template: person
 :person_name: Kaja Milanowska
 :person_role: Założycielka, Koordynatorka Poznań
-:img_name: Kaja.jpg
+:img_name: Kaja.png
 
 Kaja Milanowska jest współzałożycielką polskiej grupy PyLadies oraz koordynatorką spotkań w Poznaniu.
