@@ -507,6 +507,20 @@ hr {
     font-size: 1.5em;
 }
 
+/*#event .col-sm-9 p:first-child {
+    margin-top: 0px;
+}*/
+
+#event .col-sm-9 a,
+#person .col-sm-9 a {
+    color: #405a74;
+}
+
+#event .col-sm-9 a:hover,
+#person .col-sm-9 a:hover {
+    color: #e51e41;
+}
+
 /* ABOUT
    ================================================== */
 .bg-about {
