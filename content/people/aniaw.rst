@@ -15,4 +15,7 @@ Ania Wszeborowska
 :person_role: Założycielka
 :img_name: Ania.jpg
 
-Ania Wszeborowska jest współzałożycielką polskiej grupy PyLadies.
+Ania i Kaja założyły polską grupę PyLadies w maju 2014r. w Poznaniu.
+Początkowo organizowały cotygodniowe warsztaty dla początkujących, które później
+przekształciły się w serię zajęć tematycznych na każdym poziomie zaawansowania, czyli
+obecny PyTrening.
