@@ -236,6 +236,7 @@ hr {
     transition: color .13s ease-out;
 }
 
+.bg-white .event-loc,
 .navbar-nav li a .contact {
     padding: 7px 10px;
     background-color: #E51E41;
@@ -417,9 +418,12 @@ hr {
     margin-bottom: 100px;
 }
 
+.event-listing {
+    margin-bottom: 130px;
+}
+
 #all-events {
     margin-top: 0;
-    margin-bottom: 138px;
     font-size: 1.7em;
 }
 
@@ -521,6 +525,10 @@ hr {
     color: #e51e41;
 }
 
+.event-loc {
+    float: right;
+}
+
 /* ABOUT
    ================================================== */
 .bg-about {
@@ -571,7 +579,7 @@ hr {
 
 .event {
     overflow: hidden;
-    padding-bottom: 15px;
+    /* padding-bottom: 15px; */
 }
 
 .event:hover {
@@ -586,6 +594,10 @@ hr {
 
 #events .date {
     text-transform: uppercase;
+}
+
+#events .event p {
+    padding: 7px 10px;
 }
 
 /* WHITE-SECTION

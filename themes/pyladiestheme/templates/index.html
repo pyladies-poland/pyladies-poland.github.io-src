@@ -20,7 +20,7 @@
 
   <!-- EVENTS-->
   <!--===============================================================-->
-    <div id="events">
+    <div class="bg-white" id="events">
       <div class="container">
 
         <div class="row">
@@ -30,14 +30,16 @@
           </div>
         </div>
 
-        <div class="row row-images">
+        <div class="row event-listing">
         {% for article in categories_dict.get('events') %}
-            <div class="col-sm-4 margin-bottom-xs">
-                <a class="wrapper-images" href="/events/{{ article.slug }}">
-                    <img class="img-responsive"
-                         src="/pyladiestheme/assets/images/events/{{ article.img_name }}"
-                         alt="{{ article.title }}">
-                    <h3 class="category">{{ article.summary }}</h3>
+            <div class="event">
+                <a href="/events/{{ article.slug }}">
+                    <div class="col-sm-4 margin-bottom-xs">
+                      <p class="event-loc">{{ article.location }}</p>
+                    </div>
+                    <div class="col-sm-8 margin-bottom-xs">
+                        {{ article.summary }}
+                    </div>
                 </a>
             </div>
         {% endfor %}
