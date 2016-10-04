@@ -9,5 +9,6 @@ Warsztat ze wstępu do TDD na PyConPL 2016
 
 :category: events
 :img_name: pyconpl15.png
+:location: PyConPL
 
 Podczas konferencji PyConPL 2015 Ania Wszeborowska z PyLadies Poland poprowadziła warsztat ze wstępu do Test-Driven Development.

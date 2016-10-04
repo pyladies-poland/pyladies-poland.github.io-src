@@ -9,5 +9,6 @@ Hackathon Wysadź Ulicę - Malta
 
 :category: events
 :img_name: komitywa.png
+:location: Poznań
 
 Hackathon Wysadź Ulicę

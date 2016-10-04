@@ -9,6 +9,7 @@ PyTrening z PyLadies 2.0 w Poznaniu
 
 :category: events
 :img_name: pytrening2.png
+:location: Poznań
 
 Darmowe warsztaty dla początkujących entuzjastów Pythona prowadzone są w każdą środę w trakcie
 roku akademickiego.
