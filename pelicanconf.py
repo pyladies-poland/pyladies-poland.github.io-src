@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'PyLadies Poland'
-SITENAME = 'PyLadies Poland'
+AUTHOR = u'PyLadies Poland'
+SITENAME = u'pyladies-poland.github.io'
 SITEURL = ''
 
 PATH = 'content'
@@ -17,12 +17,7 @@ DIRECT_TEMPLATES = ['archives', 'categories', 'events', 'index']
 
 TIMEZONE = 'Europe/Warsaw'
 
-DEFAULT_LANG = 'pl'
-LOCALE = 'pl_PL.utf8'
-
-DATE_FORMATS = {
-    'pl': ('pl_PL', '%d %B %Y'),
-}
+DEFAULT_LANG = u'pl'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
