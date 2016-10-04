@@ -19,3 +19,4 @@ Ania i Kaja założyły polską grupę PyLadies w maju 2014r. w Poznaniu.
 Początkowo organizowały cotygodniowe warsztaty dla początkujących, które później
 przekształciły się w serię zajęć tematycznych na każdym poziomie zaawansowania, czyli
 obecny PyTrening.
+Obecnie mieszka w Berlinie.
