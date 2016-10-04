@@ -18,7 +18,7 @@ DIRECT_TEMPLATES = ['archives', 'categories', 'events', 'index']
 TIMEZONE = 'Europe/Warsaw'
 
 DEFAULT_LANG = 'pl'
-LOCALE = ('pl_PL',)
+LOCALE = 'pl_PL.utf8'
 
 DATE_FORMATS = {
     'pl': ('pl_PL', '%d %B %Y'),
