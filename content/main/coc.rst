@@ -1,3 +1,5 @@
+.. -*- coding: utf-8 -*-
+
 Kodeks postępowania (Code of Conduct)
 #####################################
 

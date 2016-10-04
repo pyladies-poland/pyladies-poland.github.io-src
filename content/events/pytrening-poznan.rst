@@ -1,3 +1,5 @@
+.. -*- coding: utf-8 -*-
+
 PyTrening z PyLadies 2.0 w Poznaniu
 ###################################
 

@@ -1,3 +1,5 @@
+.. -*- coding: utf-8 -*-
+
 Warsztat ze wstępu do TDD na PyConPL 2016
 #########################################
 
