@@ -533,6 +533,7 @@ hr {
     padding: 10px 0;
     max-width: 800px;
 }
+
 /* ABOUT
    ================================================== */
 .bg-about {
@@ -600,8 +601,10 @@ hr {
     text-transform: uppercase;
 }
 
-#events .event p {
+#events.bg-white .event-loc {
     padding: 7px 10px;
+    width: 100px;
+    text-align: center;
 }
 
 /* WHITE-SECTION
