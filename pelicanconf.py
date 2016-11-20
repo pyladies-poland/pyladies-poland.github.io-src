@@ -9,6 +9,8 @@ SITEURL = ''
 PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['events', 'main', 'people']
+STATIC_PATHS = ['images']
+
 
 ARTICLE_URL = '{category}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
