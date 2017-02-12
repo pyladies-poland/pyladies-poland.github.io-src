@@ -20,7 +20,7 @@ Radą Kół Naukowych Politechniki Poznańskiej, mogliśmy spotykać się co śr
 jednej z sal uczelni. Spotkania szybko zaczęły cieszyć się dużym
 zainteresowaniem i skupiać nie tylko osoby biorące udział we wspomnianych
 warsztatach, ale także osoby pracujące nad własnymi projektami, studentów
-potrzebujących wsparcia przy zadaniu domowym czy osoby początkujące chcące
+potrzebujących wsparcia przy zadaniu domowym czy osoby początkujące, chcące
 uczyć się od podstaw. Ostatnią grupę wzięła pod opiekę Kaja Milanowska,
 przygotowując cotygodniowy zestaw ćwiczeń, co po czasie przekształciło się
 w znane poznańskie PyTreningi.

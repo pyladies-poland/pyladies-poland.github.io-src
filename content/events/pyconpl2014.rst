@@ -16,6 +16,7 @@ PyLadies Poland na PyConPL 2014
 Na konferencji PyConPL Ania Wszeborowska i Rafał Stożek poprowadzili warsztaty
 z web scrapingu pod szyldem PyLadies Poland. Były one skierowane przede
 wszystkim do początkujących programistów aplikacji internetowych.
+
 Materiały z warsztatów dostępne są na otwartej licencji jako repozytorium na
 GitHubie: https://github.com/pyladies-poland/webscraping-presentation
 
@@ -31,6 +32,6 @@ inne miasta do przyłączenia się do inicjatywy.
 
 .. image:: {filename}/images/pyconpl2014-ania.jpg
    :alt: Ania o PyLadies Poland na PyConPL 2014
-   
+
 .. image:: {filename}/images/pyconpl2014-lightningtalk.jpg
    :alt: PyLadies Poland na PyConPL 2014
