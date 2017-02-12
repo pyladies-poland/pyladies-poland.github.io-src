@@ -607,6 +607,10 @@ hr {
     text-align: center;
 }
 
+.city-image {
+    margin-bottom: 45px;
+}
+
 /* WHITE-SECTION
    ================================================== */
 .bg-white {
