@@ -13,7 +13,7 @@ Filip Górczyński
 :template: person
 :person_name: Filip Górczyński
 :person_role: Mentor
-:img_name: Filip.jpg
+:img_name: Filip1.jpg
 
 Filip Górczyński jest mentorem na zajęciach w Poznaniu
 
