@@ -13,7 +13,9 @@ PyLadies.start()
 :img_name: pyladies-start.jpg
 :location: Poznań
 
-Zapraszamy na bezpłatny warsztat Pythona dla początkujących w dniach 23-24 września 2017 roku w Poznaniu!
+Zapraszamy na bezpłatny warsztat Pythona dla początkujących wczesną jesienią 2017 roku w Poznaniu!
+Terminem będzie prawdopodobnie przełom września i października, szczegóły podamy wkrótce.
+
 Zajęcia będą trwały pełne dwa dni i poprowadzą je doświadczeni mentorzy – programiści Pythona.
 
 Nauczymy Was podstaw Pythona i wspólnie na bieżąco będziemy ćwiczyć nowo nabywane umiejętności.
