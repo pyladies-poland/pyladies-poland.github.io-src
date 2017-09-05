@@ -1,7 +1,7 @@
 Pyladies.pl Website
 ===================
 
-This repository contains the code powering http://pyladies.pl/ website.
+This repository contains the code powering http://poland.pyladies.com/ website.
 
 Setting up development env
 --------------------------
