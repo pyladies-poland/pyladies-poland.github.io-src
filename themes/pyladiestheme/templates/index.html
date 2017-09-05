@@ -31,7 +31,7 @@
         </div>
 
         <div class="row event-listing">
-        {% for article in categories_dict.get('events') %}
+        {% for article in categories_dict.get('events')[:6] %}
             <div class="event">
                 <a href="/events/{{ article.slug }}">
                     <div class="col-sm-4 margin-bottom-xs">
