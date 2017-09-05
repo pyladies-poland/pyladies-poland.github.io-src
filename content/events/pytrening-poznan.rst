@@ -13,30 +13,30 @@ PyTrening z PyLadies 2.0 w Poznaniu
 :img_name: pytrening2.png
 :location: Poznań
 
-Darmowe warsztaty dla początkujących entuzjastów Pythona prowadzone są w każdą środę w trakcie
-roku akademickiego.
+Darmowe warsztaty dla początkujących entuzjastów Pythona były prowadzone w każdą środę w trakcie
+roku akademickiego 2015/2016.
 
-Na każdym spotkaniu pracujemy w oparciu o zaproponowane przez głównego mentora zadanie.
-Rozwiązujemy je wykorzystując poznane wcześniej mechanizmy języka. W toku pracy poznajemy
+Na każdym spotkaniu pracowaliśmy w oparciu o zaproponowane przez głównego mentora zadanie.
+Rozwiązywaliśmy je wykorzystując poznane wcześniej mechanizmy języka. W toku pracy poznawaliśmy
 nowe, kolejne narzędzia.
 
-W zajęciach aktywnie uczestniczy grupa mentorów, którzy na bieżąco nakierowują poszczególnych
+W zajęciach aktywnie uczestniczyła grupa mentorów, którzy na bieżąco nakierowywali poszczególnych
 uczestników na właściwy trop.
 
-Udział w kolejnych warsztatach może wymagać pewnej dozy systematycznej pracy  w domu. Na
-kolejnych spotkaniach nie robimy wielu powtórek. Staramy się szybko wprowadzać nowe narzędzia,
+Udział w kolejnych warsztatach mógł wymagać pewnej dozy systematycznej pracy  w domu. Na
+kolejnych spotkaniach nie robiliśmy wielu powtórek. Staraliśmy się szybko wprowadzać nowe narzędzia,
 tak by mogli do nas dołączać kolejni, nowi entuzjaści o nieco wyższym poziomie znajomości języka.
-Posiadamy materiały, które mogą posłużyć do samodzielnego nadrobienia ewentualnych zaległości.
+Posiadane materiały mogły posłużyć do samodzielnego nadrobienia ewentualnych zaległości.
 
-Do udziału w warsztatach nie jest potrzebne wykształcenie informatyczne. Zapraszamy osoby w
-każdym wieku. Panowie są także mile widziani!
+Do udziału w warsztatach nie było potrzebne wykształcenie informatyczne. Gościliśmy osoby w
+każdym wieku. Panowie byli także mile widziani!
 
-Do warsztatów można dołączyć w dowolnej chwili, nie są wymagane zapisy.
+Do warsztatów można było dołączyć w dowolnej chwili, nie były wymagane zapisy.
 
-Spotkania odbywają się w Centrum Wykładowym Politechniki Poznańskiej na ulicy Piotrowo 2 w
-Poznaniu w godzinach 18:30-20:00, sala nr 1 przy biurku ochrony.
+Spotkania odbywały się w Centrum Wykładowym Politechniki Poznańskiej przy ulicy Piotrowo 2 w
+Poznaniu w godzinach 18:30-20:00.
 
-Na zajęcia przychodzimy z własnym laptopem. Na miejscu zapewniamy przedłużacze oraz dostęp do sieci.
+Na zajęcia każdy przychodził z własnym laptopem. Na miejscu zapewnialiśmy przedłużacze oraz dostęp do sieci.
 
 Bieżącą i bardziej szczegółową informację o nadchodzących warsztatach znajdzesz poniżej oraz
 na Facebook_'u.
