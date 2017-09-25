@@ -10,7 +10,7 @@ First, you'll have to install an additional library. You will need:
 
 * Pelican (https://github.com/getpelican/pelican)
 
-###Running application
+### Running application
 
 To generate static pages from files inside `content` directory:
 
