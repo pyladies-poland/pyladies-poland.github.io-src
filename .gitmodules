@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/pyladies-poland/pyladies-poland.github.io.git
