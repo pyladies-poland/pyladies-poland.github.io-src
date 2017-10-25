@@ -20,6 +20,7 @@ DIRECT_TEMPLATES = ['archives', 'categories', 'events', 'index']
 TIMEZONE = 'Europe/Warsaw'
 
 DEFAULT_LANG = u'pl'
+LOCALE = 'pl_PL'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
