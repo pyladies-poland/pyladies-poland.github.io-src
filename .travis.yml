@@ -17,4 +17,4 @@ deploy:
     condition: type = push
   repo: $REPO
   local_dir: ./output
-  target_branch: publish_candidate
+  target_branch: master
