@@ -14,10 +14,10 @@
                     {% for article in categories_dict.get('events') %}
                         <div class="event">
                             <a href="/events/{{ article.slug }}">
-                                <div class="col-sm-3">
+                                <div class="col-sm-4">
                                     <p class="date">{{ article.locale_date|title }}</p>
                                 </div>
-                                <div class="col-sm-9">
+                                <div class="col-sm-8">
                                     {{ article.summary }}
                                 </div>
                             </a>
