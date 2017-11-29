@@ -12,9 +12,9 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-  on:
-    branch: master
-    condition: type = push
-  repo: $REPO
   local_dir: ./output
   target_branch: master
+  repo: pyladies-poland/pyladies-poland.github.io
+  fqdn: poland.pyladies.com
+  on:
+    branch: master
