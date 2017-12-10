@@ -8,6 +8,7 @@ install:
 
 script:
   - make html
+  - cp content/README.md output/
 
 deploy:
   provider: pages
