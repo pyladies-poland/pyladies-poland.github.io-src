@@ -5,6 +5,7 @@ git clone https://github.com/pyladies-poland/pyladies-poland.github.io-src
 2. Aby dodać:
   * osobę, dodaj plik rst do folderu content/people
   * wydarzenie, dodaj plik rst do folderu content/events
+  * post na bloga, dodaj plik rst do folderu content/blog. Pamiętaj o dodaniu ':template: blog_post' oraz ':category: blog'.
 
   Treści wyświetlane na stronie głównej znajdują się w katalogu content/main.
 

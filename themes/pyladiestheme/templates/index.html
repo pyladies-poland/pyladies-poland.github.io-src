@@ -193,6 +193,32 @@
       </div>
     </div>
 
+  <!-- BLOG -->
+  <!--===============================================================-->
+
+{% if (categories_dict.get('blog')) is not none %}
+    <div class="bg-white" id="blog">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-sm-12">
+            <h2 class="title">BLOG</h2>
+            <hr>
+          </div>
+        </div>
+
+        <div class="row">
+        {% for blog_post in categories_dict.get('blog') %}
+          <a href="/blog/{{ blog_post.slug }}">
+            <h3>{{ blog_post.title }}</h3>
+          </a>
+        {% endfor %}
+        </div>
+
+      </div>
+    </div>
+{% endif %}
+
   <!-- PARTNERS-->
   <!--===============================================================-->
     <div id="partners">
