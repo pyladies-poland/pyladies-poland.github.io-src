@@ -34,10 +34,10 @@
         {% for article in categories_dict.get('events')[:6] %}
             <div class="event">
                 <a href="/events/{{ article.slug }}">
-                    <div class="col-sm-4 margin-bottom-xs">
+                    <div class="col-xs-4 margin-bottom-xs">
                       <p class="event-loc">{{ article.location }}</p>
                     </div>
-                    <div class="col-sm-8 margin-bottom-xs">
+                    <div class="col-xs-8 margin-bottom-xs">
                         {{ article.summary }}
                     </div>
                 </a>
