@@ -19,3 +19,5 @@ spotykaliśmy się co tydzień, aby budować stronę internetową w Django.
 
 .. image:: {filename}/images/firstproject.jpg
    :alt: Pierwsze spotkanie PyLadies Poland w CoWalski, Poznań
+   :class: img-responsive lightbox
+   :target: /images/firstproject.jpg
