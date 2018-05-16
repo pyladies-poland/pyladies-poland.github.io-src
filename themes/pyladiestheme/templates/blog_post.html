@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block contents %}
+
+    <div class="bg-white" id="blog">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 class="title">{{ article.title }}</h2>
+                </div>
+                <div class="col-sm-12">
+                    <div class="col-sm-3">
+                        <img src="/images/{{ article.img_name }}"
+                             alt="{{ article.title }}"
+                             class="img-responsive">
+                    </div>
+                    <div class="col-sm-9 content">
+                        {{ article.content }}
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                  <a href="/#blog"><h4 class="back">WSZYSTKIE POSTY</h4></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock contents %}
