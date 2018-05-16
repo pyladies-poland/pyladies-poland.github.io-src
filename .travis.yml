@@ -20,3 +20,4 @@ deploy:
   fqdn: poland.pyladies.com
   on:
     branch: master
+    condition: $TRAVIS_REPO_OWNER = pyladies-poland
