@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
-ARTICLE_PATHS = ['events', 'main', 'people']
+ARTICLE_PATHS = ['events', 'main', 'people', 'blog']
 STATIC_PATHS = ['images']
 
 
