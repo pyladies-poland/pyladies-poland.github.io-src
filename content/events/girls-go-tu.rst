@@ -22,3 +22,5 @@ Wszeborowska z Asią Kasprzak.
 
 .. image:: {filename}/images/dziewczyny-na-politechniki-warsztat.jpg
    :alt: Warsztat z podstaw programowania w ramach akcji Dziewczyny na politechniki
+   :class: img-responsive lightbox
+   :target: /images/dziewczyny-na-politechniki-warsztat.jpg

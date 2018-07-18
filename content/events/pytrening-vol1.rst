@@ -21,3 +21,5 @@ się w ustalony ciąg zajęć.
 
 .. image:: {filename}/images/pytrening-vol1.jpg
    :alt: PyTrening z PyLadies
+   :class: img-responsive lightbox
+   :target: /images/pytrening-vol1.jpg

@@ -21,3 +21,5 @@ Ania wygłosiła także krótką prezentację o misji oraz działaniach PyLadies
 
 .. image:: {filename}/images/polyconfworkshop.jpg
    :alt: Warsztaty z budowania poliglotycznych systemów na PolyConf 2014
+   :class: img-responsive lightbox
+   :target: /images/polyconfworkshop.jpg

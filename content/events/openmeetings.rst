@@ -27,3 +27,5 @@ w znane poznańskie PyTreningi.
 
 .. image:: {filename}/images/openmeetings.jpg
    :alt: Otwarte spotkania na Politechnice Poznańskiej
+   :class: img-responsive lightbox
+   :target: /images/openmeetings.jpg
