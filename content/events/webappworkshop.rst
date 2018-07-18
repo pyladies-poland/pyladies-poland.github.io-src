@@ -19,3 +19,5 @@ przy użyciu Flaska. Grupa spotykała się co tydzień w Projekt Lab w Poznaniu.
 
 .. image:: {filename}/images/webappworkshop.jpg
    :alt: Warsztat z tworzenia aplikacji webowych w Projekt Lab, Poznań
+   :class: img-responsive lightbox
+   :target: /images/webappworkshop.jpg

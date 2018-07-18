@@ -21,6 +21,10 @@ Dziewczynki bawiły się równie dobrze jak prowadzące!
 
 .. image:: {filename}/images/offline-online-workshop1.jpg
    :alt: Warsztaty z programowania dla dziewczynek w Starym Browarze w Poznaniu
+   :class: img-responsive lightbox
+   :target: /images/offline-online-workshop1.jpg
 
 .. image:: {filename}/images/offline-online-workshop2.jpg
    :alt: Warsztaty z programowania dla dziewczynek w Starym Browarze w Poznaniu
+   :class: img-responsive lightbox
+   :target: /images/offline-online-workshop2.jpg

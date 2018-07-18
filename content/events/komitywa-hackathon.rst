@@ -23,3 +23,5 @@ http://kodujdlapolski.pl/projects/wysadz-ulice/
 
 .. image:: {filename}/images/wysadzulice.jpg
    :alt: Inicjatywa Wysadź Ulicę
+   :class: img-responsive lightbox
+   :target: /images/wysadzulice.jpg

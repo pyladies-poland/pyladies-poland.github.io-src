@@ -23,3 +23,5 @@ PyLadies Poland było także, jak co roku, partnerem społecznościowym konferen
 
 .. image:: {filename}/images/pyconpl2015-workshop.jpeg
    :alt: Warsztat z TDD na PyConPL 2015
+   :class: img-responsive lightbox
+   :target: /images/pyconpl2015-workshop.jpeg

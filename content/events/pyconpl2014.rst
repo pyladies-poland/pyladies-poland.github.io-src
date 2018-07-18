@@ -22,9 +22,13 @@ GitHubie: https://github.com/pyladies-poland/webscraping-presentation
 
 .. image:: {filename}/images/pyconpl2014-workshop1.jpg
    :alt: PyLadies Poland na PyConPL 2014
+   :class: img-responsive lightbox
+   :target: /images/pyconpl2014-workshop1.jpg
 
 .. image:: {filename}/images/pyconpl2014-workshop2.jpg
    :alt: PyLadies Poland na PyConPL 2014
+   :class: img-responsive lightbox
+   :target: /images/pyconpl2014-workshop2.jpg
 
 Podczas sesji Lightning Talk, na której zebrana była większość uczestników
 konferencji, Ania opowiedziała o działaniach PyLadies w Poznaniu, zachęcając
@@ -32,6 +36,10 @@ inne miasta do przyłączenia się do inicjatywy.
 
 .. image:: {filename}/images/pyconpl2014-ania.jpg
    :alt: Ania o PyLadies Poland na PyConPL 2014
+   :class: img-responsive lightbox
+   :target: /images/pyconpl2014-ania.jpg
 
 .. image:: {filename}/images/pyconpl2014-lightningtalk.jpg
    :alt: PyLadies Poland na PyConPL 2014
+   :class: img-responsive lightbox
+   :target: /images/pyconpl2014-lightningtalk.jpg
